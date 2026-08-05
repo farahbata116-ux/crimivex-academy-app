@@ -1,0 +1,6 @@
+{
+  "name": "Crimivex Academy",
+  "description": "Premier online platform for Criminology, Cyber Forensics, Criminal Profiling, and Virtual Crime Scene Investigation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
